@@ -70,3 +70,4 @@ Execute the following commands:
 - Click "View App" to see your app in action.
 
 The result when visiting the application page and clicking 'View App' should be "Hello World".	
+
